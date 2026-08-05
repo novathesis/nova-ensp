@@ -1,8 +1,8 @@
-# Abstract: novathesis-nova-ensp-v8.0.0
+# Abstract: novathesis-nova-ensp-v8.0.1
 
 This is a customized LaTeX template for theses and reports at **Escola Nacional de Saúde Pública da Universidade NOVA de Lisboa (NOVA ENSP)**, following the most recent [NOVA ENSP guidelines (in Portuguese)](https://www.ensp.unl.pt/wp-content/uploads/2025/01/orientacoes-para-a-elaboracao-de-trabalhos-academicos.pdf). 
 
-This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.0)**, trimmed down and optimized to provide NOVA ENSP students with a streamlined experience, meeting NOVA ENSP's academic formatting standards without the complexity of the original multi-institution template. 
+This template is a streamlined and fine-tuned version of the robust **NOVAthesis framework (v8.0.1)**, trimmed down and optimized to provide NOVA ENSP students with a streamlined experience, meeting NOVA ENSP's academic formatting standards without the complexity of the original multi-institution template. 
 
 ### Key Features:
 
